@@ -11,7 +11,9 @@ I'm a curious and driven **data science enthusiast** with a passion for uncoveri
 
 ### 📫 Let’s Connect!
 - Email: [apiyosusan62@gmail.com](mailto:apiyosusan62@gmail.com)
-- LinkedIn: (to be added)
+- LinkedIn: www.linkedin.com/in/
+susan-apiyo-64bab435b
+
 - GitHub: [@apiy-o](https://github.com/apiy-o)
 
 ### 🚀 Tools & Technologies
