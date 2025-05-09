@@ -2,7 +2,7 @@
 
 I'm a curious and driven **data science enthusiast** with a passion for uncovering insights, solving problems, and telling stories with data.
 
-- 🎓 Currently completing a Data Science course (Jan–April 2025)
+- 🎓 Currently completing a Data Science course (Jan–May 2025)
 - 🛍️ Recently analyzed E-commerce sales data using MySQL & Python
 - 📈 Worked on Netflix stock prediction using LSTM and XGBoost with my team
 - 🛠️ Tools I use: Python, SQL, Pandas, NumPy, Jupyter, scikit-learn, Git
