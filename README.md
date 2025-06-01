@@ -45,6 +45,15 @@ I'm a curious and driven **data science enthusiast** with a passion for uncoveri
 **Model Tuning & Evaluation**  
 ▰▰▰▰▰▰▱▱▱▱ 60%
 
+
+## 📊 GitHub Stats
+
+![apiyOsusan's GitHub stats](https://github-readme-stats.vercel.app/api?username=apiyOsusan&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apiyOsusan&layout=compact&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=apiyOsusan&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 > “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
