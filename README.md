@@ -52,7 +52,6 @@ I'm a curious and driven **data science enthusiast** with a passion for uncoveri
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apiyOsusan&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=apiyOsusan&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
